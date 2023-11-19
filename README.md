@@ -2,7 +2,7 @@
 
 Sou um entusiasta de Sistemas de Informação na UFRPE, dedicado a programar e solucionar desafios. Atualmente, estou ampliando minha expertise em Java, aprimorando continuamente minhas habilidades de programação.
 
-![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=ledrods&show_icons=true&theme=cobalt&locale=pt-br)
+![Leandro GitHub stats](https://github-readme-stats.vercel.app/api?username=ledrods&show_icons=true&theme=tokyonight&locale=pt-br&rank_icon=github&layout=compact)
 
 ### 🚀Tecnologias que eu uso no meu dia
 
