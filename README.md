@@ -41,7 +41,6 @@ Este trabalho é minha principal experiência e o foco do meu desenvolvimento em
 
 - **Desenvolvimento de Agentes de IA:** Desenvolvi e projetei agentes de LLMs para validação de conteúdo educacional, utilizando orquestração de agentes para garantir conformidade (BNCC/SAEB).
 - **Pipelines RAG:** Colaborei na construção de pipelines RAG, auxiliando no processo de validação com **Sentence Transformers** (embeddings) e **Similaridade de Cosseno**.
-- **Portfólio Detalhado:** [Descrição da Arquitetura e Código-fonte](https://github.com/ledrods/projeto-iniciacao-cientifica)
 
 ---
 
