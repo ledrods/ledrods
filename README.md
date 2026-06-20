@@ -4,7 +4,7 @@
 
 `backend python` · `ml engineering` · `ia aplicada`
 
-[![tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=nao+paro+ate+o+resultado+sair;o+que+eu+nao+sei%2C+eu+corro+atras)](https://github.com/ledrods)
+[![tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=não+paro+até+o+resultado+sair;o+que+eu+não+sei%2C+eu+corro+atrás)](https://github.com/ledrods)
 
 ![Recife](https://img.shields.io/badge/Recife,_PE-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE)
 ![UFRPE](https://img.shields.io/badge/SI_@_UFRPE-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE)
@@ -17,17 +17,17 @@
 ## `// sobre`
 
 Construo do esquema do banco ate o frontend que mostra o resultado. Gosto do
-problema inteiro, nao so da minha parte dele: defino a arquitetura, subo a API,
-integro o modelo e fecho a ponta. Meu terreno e a interseccao de backend Python
-com IA aplicada, e o que me move e ver dado e modelo virarem algo que funciona de
-verdade. Quando travo, eu corro atras ate destravar.
+problema inteiro, não só da minha parte dele: defino a arquitetura, subo a API,
+integro o modelo e fecho a ponta. Meu terreno é a intersecção de backend Python
+com IA aplicada, e o que me move é ver dado e modelo virarem algo que funciona de
+verdade. Quando travo, eu corro atrás ate destravar.
 
-## `// missoes`
+## `// missões`
 
 **▸ Biofabrica de Corais** · `estagio em automacao · 2026 → atual`
 Tirei tarefas manuais das maos da equipe e devolvi tempo. O relatorio de parceiro
 que levava horas passou a sair em cerca de 5 minutos, com Python e a API da OpenAI
-montando um DOCX completo com graficos, tabelas e analise. Mais de 100 horas de
+montando um DOCX completo com graficos, tabelas e analise. Mais de 200 horas de
 produtividade recuperadas por ano.
 
 **▸ TRIPLET Challenge** · `ESWC 2026 · competicao internacional`
