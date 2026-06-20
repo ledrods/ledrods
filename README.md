@@ -4,7 +4,7 @@
 
 `backend python` · `ml engineering` · `ia aplicada`
 
-[![tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=nao+paro+ate+o+resultado+sair;o+que+eu+nao+sei%2C+eu+corro+atras)](https://github.com/ledrods)
+[![tagline](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3500&pause=900&color=22D3EE&center=true&vCenter=true&width=560&height=40&lines=não+paro+até+o+resultado+sair;o+que+eu+não+sei%2C+eu+corro+atrás)](https://github.com/ledrods)
 
 ![Recife](https://img.shields.io/badge/Recife,_PE-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE)
 ![UFRPE](https://img.shields.io/badge/SI_@_UFRPE-0D1117?style=flat-square&labelColor=0D1117&color=22D3EE)
