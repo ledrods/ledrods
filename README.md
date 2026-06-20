@@ -26,18 +26,21 @@ Quando não sei, corro atrás até saber. Quando sei, construo.
 
 **▸ Biofábrica de Corais** · `estágio em automação e dados · fev/2026 → atual`
 Assumi a responsabilidade pelo desenvolvimento e sustentação de automações, dados
-e IA em uma startup de conservação de recifes. Construí 3 pipelines end-to-end em
-Python com integração à API GraphQL do Monday.com, observabilidade via logs
-estruturados e deploy em servidores VPS. Integrei LLMs via MCP (Model Context
-Protocol) e API da Claude (Anthropic) para automatizar análises e workflows
-operacionais. Resultado: mais de 100 horas de trabalho manual eliminadas por ano.
+e IA em uma startup de conservação marinha com mais de 87 mil corais monitorados.
+Construí 3 pipelines end-to-end em Python com integração à API GraphQL do
+Monday.com, observabilidade via logs estruturados e deploy em servidores VPS.
+Integrei LLMs via API da Claude (Anthropic) para automatizar análises e geração
+de relatórios. Resultado: +140 horas devolvidas ao time por ano; processo de
+relatórios que levava 4 dias passou a rodar em 4 minutos.
 
-**▸ TRIPLET Challenge** · `ESWC 2026 · competição internacional de ML`
-2º lugar internacional em classificação de padrões de comportamento em dados
-corporativos. Dataset com mais de 4.700 registros e 190 features. Desenvolvi o
-pipeline com embeddings semânticos, LightGBM, feature engineering customizado e
-validação rigorosa via Scikit-learn. F1-Macro de 0,77. Co-autoria de artigo
-acadêmico em andamento.
+**▸ TRIPLET Challenge** · `ESWC 2026 · competição internacional de NLP`
+4º lugar geral, 2º lugar no dataset Business. Pipeline end-to-end de extração de
+relações semânticas em texto e tabelas: 7 fases, +360 scripts Python, ~27 mil
+linhas de código. Benchmarkeei 6 modelos de NER (GLiNER zero-shot, spaCy, Stanza,
+Flair) e 4 de Entity Linking (ReFinED, Relik, BLINK, LUKE). Enriqueci entidades
+via Wikidata SPARQL, YAGO, BabelNet e WordNet. Feature engineering com 550
+atributos por exemplo, 24.304 exemplos de treino, validação cruzada 10-fold com
+XGBoost e LightGBM.
 
 **▸ Iniciação Científica NEES/UFRPE** · `set → nov/2025`
 Agentes de validação automática de conteúdo educacional com LLMs via Prompt
@@ -45,25 +48,27 @@ Engineering e RAG. Desenvolvi POC de análise semântica com Sentence Transforme
 e Scikit-learn, validando resultados com correlações de Pearson e Spearman e
 documentando para publicação científica.
 
-**▸ GestAção** · `mai/2024 → mai/2025`
-Assistente de IA para gestantes de baixa renda com RAG e Prompt Engineering.
-Implementei mecanismos de segurança para reduzir entrega de conteúdo impreciso
-pela IA em um contexto sensível de saúde materno-infantil. Pipeline integrado
-ponta a ponta via APIs de LLMs.
+**▸ GestAção+** · `mai/2024 → mai/2025`
+App mobile para gestantes com chatbot de IA, mapa interativo de ONGs e unidades
+de saúde, escaneamento de caderneta de vacinação e acompanhamento gestacional
+personalizado. Implementei o backend em Flask com RAG e engenharia de prompts,
+integrado ponta a ponta ao app em Kotlin. Contexto sensível: cada decisão de
+prompt foi pensada para não induzir informação imprecisa a gestantes de baixa
+escolaridade.
 
 ## `// stack`
 
-![stack](https://skillicons.dev/icons?i=python,fastapi,flask,postgres,sklearn,aws,linux,git&theme=dark)
+![stack](https://skillicons.dev/icons?i=python,pytorch,flask,fastapi,sklearn,mongodb,aws,linux,git&theme=dark)
 
-`IA & LLMs` Claude API (Anthropic) · MCP · Hugging Face · Sentence Transformers · spaCy · RAG
-`ML & Dados` LightGBM · XGBoost · Scikit-learn · pandas · numpy · matplotlib · feature engineering
-`Infra & APIs` FastAPI · REST · GraphQL · VPS (Hetzner/HostGator) · AWS (EC2, S3, RDS) · SQL
+`IA & NLP` Claude API · HuggingFace Transformers · GLiNER · spaCy · Stanza · RAG · Sentence Transformers
+`ML & Dados` LightGBM · XGBoost · Scikit-learn · pandas · numpy · feature engineering · SPARQL
+`Infra & APIs` Flask · FastAPI · GraphQL · MongoDB · VPS (Hetzner) · AWS · SQL
 
 ## `// agora`
 
 Buscando a primeira vaga como Analista ou Cientista de Dados Jr, Backend Python
-ou IA aplicada. Aprofundando MLOps, deploy de modelos e NLP. O que já construí
-está no histórico acima, com número e tudo.
+ou IA aplicada. Aprofundando MLOps, deploy de modelos e NLP avançado. O que já
+construí está no histórico acima, com número e tudo.
 
 ## `// fora_do_terminal`
 
